@@ -1,0 +1,11 @@
+{
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "livePreview": true,
+  "readableLineLength": true,
+  "focusNewTab": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview"
+}

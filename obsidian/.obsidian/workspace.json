@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "e3e40a53701f3cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "19367f578b8b901c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a6af9334b24a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日程备忘/随手写.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随手写"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aea06dffc6f6564b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe2163fc8757648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f674ffe206e31e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8c7e13e24dcfff01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "top",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3df2144ccdc67ed3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.4920382499695
+  },
+  "right": {
+    "id": "090a3bc7515ec58d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbedade0e32bd02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b878210d76fcfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/011 Linux进程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "011 Linux进程 的反向链接列表"
+            }
+          },
+          {
+            "id": "1d4ca31a149a698e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/obsidian使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "obsidian使用 的出链列表"
+            }
+          },
+          {
+            "id": "22fad9e68aa0a858",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f1be512b6506737b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日程备忘/随手写.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "随手写 的大纲"
+            }
+          },
+          {
+            "id": "95d22e722225336c",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "06a6af9334b24a0a",
+  "lastOpenFiles": [
+    "临时文件/科一.md",
+    "Linux/知识补充/Linux 进程控制详解：进程等待机制.md",
+    "Linux/知识补充/Linux 书籍强烈推荐.md",
+    "Linux/011 Linux进程.md",
+    "Linux/004 Linux基本指令.md",
+    "Linux/006 yum和Linux生态.md",
+    "C++/C++ STL —— 基于算法竞赛.md",
+    "Linux/知识补充/status 的位布局（Linux 下）.canvas",
+    "Linux/非阻塞轮询.canvas",
+    "Linux/012 进程状态和优先级.md",
+    "Linux/005 权限的理解.md",
+    "临时文件/洛谷测试点信息.md",
+    "日程备忘/日程进度.md",
+    "日程备忘/随手写.md",
+    "临时文件/提问模板.md",
+    "git、GitHub/我的PicGo令牌.md",
+    "git、GitHub/Git 版本迭代.md",
+    "git、GitHub/git 清理.md",
+    "git、GitHub/Git 提交的常见场景和命令.md",
+    "git、GitHub/Gitee 和 GitHub 的「绿点」机制.md",
+    "git、GitHub/GitHub.md",
+    "git、GitHub/GitHub 仓库添加协议（许可证）.md",
+    "Obsidian/obsidian使用.md",
+    "Obsidian/脱离大学学习法.md",
+    "Obsidian/模板.md",
+    "Obsidian/域名.md",
+    "git、GitHub",
+    "Linux/017 进程控制 —— 终止进程.md",
+    "C++/04 类与对象（下）.md",
+    "Linux/知识补充/程序进程地址空间.canvas",
+    "Linux/知识补充/附件/Pasted image 20250402131206.png",
+    "Linux/知识补充/附件",
+    "Obsidian/未命名.canvas",
+    "Linux/知识补充",
+    "临时文件",
+    "读书笔记",
+    "日程备忘",
+    "Obsidian",
+    "算法原理详细讲解：.markdown",
+    "附件/Typora.pdf",
+    "附件/Pasted image 20250224160520.png",
+    "未命名.canvas",
+    "附件"
+  ]
+}

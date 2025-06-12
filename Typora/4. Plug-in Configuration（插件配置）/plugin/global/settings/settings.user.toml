@@ -1,0 +1,15 @@
+[auto_number]
+ENABLE = false
+
+[toolbar]
+DEFAULT_TOOL = "plu"
+
+[fence_enhance]
+HIGHLIGHT_BY_LANGUAGE = true
+
+[datatables]
+ENABLE = true
+NAME = "表格增强"
+
+[global]
+LOCALE = "zh-CN"
